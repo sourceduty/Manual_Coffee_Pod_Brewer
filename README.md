@@ -17,6 +17,8 @@ The brewer’s compatibility with a wide range of coffee pods adds to its versat
 Overall, the Manual Coffee Pod Brewer is an exemplary blend of design, functionality, and convenience. Its focus on manual operation offers a unique brewing experience that combines the precision of artisanal coffee-making with the convenience of modern pod systems. The durable construction, ease of cleaning, and stylish appearance make it a valuable addition to any coffee lover’s toolkit. By addressing the needs for simplicity, portability, and versatility, this brewer stands out as a remarkable product in the crowded coffee maker market, appealing to a broad spectrum of users from casual drinkers to coffee connoisseurs.
 
 #
+> Alex: *"This could be patented as an industrial design in Canada within 12 months of it's publication date."*
+#
 ### Related Linds
 
 [Product Design](https://github.com/sourceduty/Product_Design)
@@ -25,5 +27,7 @@ Overall, the Manual Coffee Pod Brewer is an exemplary blend of design, functiona
 <br>
 [Concept Design](https://chatgpt.com/g/g-JAsawu1Lv-concept-design)
 
+#
+Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
